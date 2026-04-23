@@ -1,0 +1,24 @@
+---
+title: "ToxPipe Models List"
+author: "Parker Combs"
+date: '`r Sys.Date()`'
+output: html_document
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(data.table)
+library(DT)
+```
+
+The following is a list of all AI models that are currently supported by the NIEHS deployment of ToxPipe. All models on this page are served via LiteLLM and are thus accessible using the Azure OpenAI schema. Supported subsets of these models are available via the LibreChat and ToxPipe API applications.
+
+The model name in the "LiteLLM Internal Name" column is the exact way the name must be typed to correctly access the model via the LiteLLM API.
+
+**This list is subject to change as new models become available and old models are cycled out!**
+
+```{r display, echo=FALSE}
+VERSION <- "4-23-2026"
+dt <- fread(paste0("./", VERSION, "/ToxPipe-Models-List.txt"))
+DT::datatable(dt)
+```
