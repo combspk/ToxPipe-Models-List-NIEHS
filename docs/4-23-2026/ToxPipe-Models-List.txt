@@ -5,12 +5,13 @@ Nova 2 Lite	amazon-nova-2-lite	Amazon	Amazon Bedrock	"text, image, video"	text	m
 Nova Pro	amazon-nova-pro	Amazon	Amazon Bedrock	"text, image, video"	text	"agents, code, math, RAG"	y	
 Nova Lite	amazon-nova-lite	Amazon	Amazon Bedrock	"text, image, video"	text	"agents, math, RAG"	y	
 Nova Micro	amazon-nova-micro	Amazon	Amazon Bedrock	text	text	"agents, math, RAG"	y	
-Claude Sonnet 4.6 	claude-4.6-sonnet	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
-Claude Opus 4.6	claude-4.6-opus	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
-Claude Opus 4.5	claude-4.5-opus	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
-Claude Haiku 4.5 	claude-4.5-haiku	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
-Claude Sonnet 4.5	claude-4.5-sonnet	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
-Claude Opus 4.1	claude-4.1-opus	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Opus 4.7	claude-opus-4.7	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Sonnet 4.6 	claude-sonnet-4.6	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Opus 4.6	claude-opus-4.6	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Opus 4.5	claude-opus-4.5	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Haiku 4.5 	claude-haiku-4.5	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Sonnet 4.5	claude-sonnet-4.5	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
+Claude Opus 4.1	claude-opus-4.1	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
 Llama 4 Scout 17B Instruct	llama4-scout-17b-instruct	Meta AI	Amazon Bedrock	"text, image"	text	"fine tuning, code, tools, assistants, summarization"	y	
 Llama 4 Maverick 17B Instruct	llama4-maverick-17b-instruct	Meta AI	Amazon Bedrock	"text, image"	text	"fine tuning, code, tools, assistants, summarization"	y	
 Llama 3.3 70B	llama3-3-70b	Meta AI	Amazon Bedrock	text	text	"code, tools, reasoning"	y	
