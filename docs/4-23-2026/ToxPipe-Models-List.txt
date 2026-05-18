@@ -38,7 +38,7 @@ GPT 5 Nano	azure-gpt-5-nano	OpenAI	Azure OpenAI	"text, image"	text	"reasoning, t
 GPT 5 Chat	azure-gpt-5-chat	OpenAI	Azure OpenAI	"text, image"	text	"tools, emotional sensitivity"	y	
 o4 Mini	azure-o4-mini	OpenAI	Azure OpenAI	"text, image"	text	"responses & chat-completions APIs, reasoning summary, tools"	y	
 o3	azure-o3	OpenAI	Azure OpenAI	"text, image"	text	"responses & chat-completions APIs, reasoning summary, tools"	y	
-o3 Deep Research	azure-o3-deep-research	OpenAI	Azure OpenAI	"text, image"	text	"reasoning, reasoning summary, research, agents"	y	"Needs to be fixed, error when querying via LibreChat"
+o3 Deep Research	azure-o3-deep-research	OpenAI	Azure OpenAI	"text, image"	text	"reasoning, reasoning summary, research, agents"	n	"requires certain tools setup to function"
 o3 Pro	azure-o3-pro	OpenAI	Azure OpenAI	"text, image"	text	"responses API, agents, advanced code, advanced problem-solving, instruction following"	y	
 o3 Mini	azure-o3-mini	OpenAI	Azure OpenAI	text	text	"advanced code, advanced problem-solving, document comparison, instruction following"	y	
 o1	azure-o1	OpenAI	Azure OpenAI	"text, image"	text	"advanced code, advanced problem-solving, document comparison, instruction following"	y	
