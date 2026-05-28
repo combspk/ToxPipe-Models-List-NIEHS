@@ -5,6 +5,7 @@ Nova 2 Lite	amazon-nova-2-lite	Amazon	Amazon Bedrock	"text, image, video"	text	m
 Nova Pro	amazon-nova-pro	Amazon	Amazon Bedrock	"text, image, video"	text	"agents, code, math, RAG"	y	
 Nova Lite	amazon-nova-lite	Amazon	Amazon Bedrock	"text, image, video"	text	"agents, math, RAG"	y	
 Nova Micro	amazon-nova-micro	Amazon	Amazon Bedrock	text	text	"agents, math, RAG"	y	
+Claude Opus 4.8 (Azure)	azure-claude-opus-4.8	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
 Claude Opus 4.7 (Azure)	azure-claude-opus-4.7	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
 Claude Sonnet 4.6 (Azure)	azure-claude-sonnet-4.6	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
 Claude Opus 4.7	claude-opus-4.7	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
