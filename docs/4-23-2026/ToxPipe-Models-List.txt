@@ -65,6 +65,8 @@ Gemma 3 12B	ollama-gemma3-12b	Google AI	Ollama	"text, image"	text	"reasoning, su
 Gemma 3 4B	ollama-gemma3-4b	Google AI	Ollama	"text, image"	text	"reasoning, summarization, question answering, fine-tuning"	y	
 GPT OSS 20B	ollama-gpt-oss-20b	OpenAI	Ollama	text	text	"reasoning w/ chain-of-thought, fine-tuning, agents"	y	
 Llama 3.1 8B	ollama-llama3.1-8b	Meta AI	Ollama	text	text	"reasoning, tools, math, summarization, code, fine-tuning"	y	
+Text Embedding 3 Large	text-embedding-3-large	OpenAI	Azure OpenAI	text	embedding	"text embedding, RAG"	n	
+Text Embedding 3 Small	text-embedding-3-small	OpenAI	Azure OpenAI	text	embedding	"text embedding, RAG"	n	
 Embed Large	mxbai-embed-large	MixedBread AI	Ollama	text	embedding	"text embedding, RAG, fine-tuning"	n	
 Embed Text	ollama-nomic-embed-text	Nomic	Ollama	text	embedding	"text embedding, RAG, fine-tuning"	n	
 Mistral NeMo	ollama-mistral-nemo-12b	Mistral AI	Ollama	text	text	"code, reasoning"	y	
