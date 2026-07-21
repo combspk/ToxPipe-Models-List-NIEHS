@@ -5,9 +5,10 @@ Nova 2 Lite	amazon-nova-2-lite	Amazon	Amazon Bedrock	"text, image, video"	text	m
 Nova Pro	amazon-nova-pro	Amazon	Amazon Bedrock	"text, image, video"	text	"agents, code, math, RAG"	y	
 Nova Lite	amazon-nova-lite	Amazon	Amazon Bedrock	"text, image, video"	text	"agents, math, RAG"	y	
 Nova Micro	amazon-nova-micro	Amazon	Amazon Bedrock	text	text	"agents, math, RAG"	y	
-Claude Opus 4.8 (Azure)	azure-claude-opus-4.8	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
-Claude Opus 4.7 (Azure)	azure-claude-opus-4.7	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
-Claude Sonnet 4.6 (Azure)	azure-claude-sonnet-4.6	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
+Claude Sonnet 5 (Azure)	azure-claude-sonnet-5	Anthropic	Azure OpenAI	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
+Claude Opus 4.8 (Azure)	azure-claude-opus-4.8	Anthropic	Azure OpenAI	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
+Claude Opus 4.7 (Azure)	azure-claude-opus-4.7	Anthropic	Azure OpenAI	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
+Claude Sonnet 4.6 (Azure)	azure-claude-sonnet-4.6	Anthropic	Azure OpenAI	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	"Alternate deployment running on Azure instead of AWS"
 Claude Opus 4.7	claude-opus-4.7	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
 Claude Sonnet 4.6 	claude-sonnet-4.6	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
 Claude Opus 4.6	claude-opus-4.6	Anthropic	Amazon Bedrock	"text, image"	text	"agents, code, research, reasoning, computer use, tools"	y	
@@ -27,6 +28,9 @@ Mistral Large 3	mistral-large-3	Mistral AI	Amazon Bedrock	"text, image"	text	cod
 Mistral Large (24.02)	mistral-large	Mistral AI	Amazon Bedrock	text	text	"agents, code, RAG, reasoning"	y	
 Mistral 7B Instruct	mistral-7b-instruct	Mistral AI	Amazon Bedrock	text	text	code	y	
 Claude Opus 4.7	claude-4.7-opus	Anthropic	Amazon Bedrock	"text, image"	text	"reasoning, code, agents, research, computer use, tools, adaptive thinking"	y	
+GPT 5.6 Terra	azure-gpt-5.6-terra	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
+GPT 5.6 Sol	azure-gpt-5.6-sol	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
+GPT 5.6 Luna	azure-gpt-5.6-luna	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 5.5	azure-gpt-5.5	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 5.4 Pro	azure-gpt-5.4-pro	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code"	y	
 GPT 5.4 Mini	azure-gpt-5.4-mini	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code"	y	
