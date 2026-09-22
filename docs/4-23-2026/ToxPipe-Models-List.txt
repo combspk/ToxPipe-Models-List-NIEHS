@@ -28,6 +28,8 @@ Mistral Large 3	mistral-large-3	Mistral AI	Amazon Bedrock	"text, image"	text	cod
 Mistral Large (24.02)	mistral-large	Mistral AI	Amazon Bedrock	text	text	"agents, code, RAG, reasoning"	y	
 Mistral 7B Instruct	mistral-7b-instruct	Mistral AI	Amazon Bedrock	text	text	code	y	
 Claude Opus 4.7	claude-4.7-opus	Anthropic	Amazon Bedrock	"text, image"	text	"reasoning, code, agents, research, computer use, tools, adaptive thinking"	y	
+GPT 4o Mini TTS	azure-gpt-4o-mini-tts	OpenAI	Azure OpenAI	"text"	audio	"text-to-speech"	n	
+GPT 4o Transcribe Diarize	azure-gpt-4o-transcribe-diarize	OpenAI	Azure OpenAI	"audio"	text	"speech-to-text"	n	
 GPT 6 Astra	azure-gpt-6-astra	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 5.6 Terra	azure-gpt-5.6-terra	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 5.6 Sol	azure-gpt-5.6-sol	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
