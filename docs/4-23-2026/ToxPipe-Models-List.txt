@@ -32,6 +32,7 @@ Claude Opus 4.7	claude-4.7-opus	Anthropic	Amazon Bedrock	"text, image"	text	"rea
 GPT 4o Mini TTS	azure-gpt-4o-mini-tts	OpenAI	Azure OpenAI	"text"	audio	"text-to-speech"	n	
 GPT 4o Transcribe Diarize	azure-gpt-4o-transcribe-diarize	OpenAI	Azure OpenAI	"audio"	text	"speech-to-text"	n	
 GPT Image 2	azure-gpt-image-2	OpenAI	Azure OpenAI	"text, image"	text, image	"image generation"	n	
+GPT 6.1 Sol	azure-gpt-6.1-sol	OpenAI	Azure OpenAI	"text, image"	text, image	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 6 Sol	azure-gpt-6-sol	OpenAI	Azure OpenAI	"text, image"	text, image	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 6 Luna	azure-gpt-6-luna	OpenAI	Azure OpenAI	"text, image"	text, image	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
 GPT 6 Astra	azure-gpt-6-astra	OpenAI	Azure OpenAI	"text, image"	text	"agents, reasoning, computer use, tools, code, data analysis, research"	y	
@@ -62,6 +63,7 @@ o1 Mini	azure-o1-mini	OpenAI	Azure OpenAI	text	text	"advanced code, advanced pro
 GPT 4o	azure-gpt-4o	OpenAI	Azure OpenAI	"text, image, audio"	text	"JSON, tools"	y	
 GPT 4o Mini	azure-gpt-4o-mini	OpenAI	Azure OpenAI	"text, image, audio"	text	"reasoning, math, code"	y	
 GPT 3.5 Turbo	azure-gpt-3.5-turbo	OpenAI	Azure OpenAI	text	text	"conversation, code"	y	
+Gemini 3.1 Flash TTS Preview	gemini-3.1-flash-tts-preview	Google AI	Google Vertex AI	"text"	audio	"text-to-speech"	n	
 Gemini 3.8 Flash	gemini-3.8-flash	Google AI	Google Vertex AI	"text, image, audio, video, pdf"	text	"thinking, Google search, URL context, reasoning, tools"	y	
 Gemini 3.5 Flash	gemini-3.5-flash	Google AI	Google Vertex AI	"text, image, audio, video, pdf"	text	"thinking, Google search, URL context, reasoning, tools"	y	
 Gemini 3.1 Pro Preview	gemini-3.1-pro	Google AI	Google Vertex AI	"text, image, audio, video, pdf"	text	"code, reasoning, Google search, URL context"	y	
@@ -84,3 +86,4 @@ Embed Large	mxbai-embed-large	MixedBread AI	Ollama	text	embedding	"text embeddin
 Embed Text	ollama-nomic-embed-text	Nomic	Ollama	text	embedding	"text embedding, RAG, fine-tuning"	n	
 Mistral NeMo	ollama-mistral-nemo-12b	Mistral AI	Ollama	text	text	"code, reasoning"	y	
 Gemma 4	ollama-gemma4-e4b	Google AI	Ollama	"text, image"	text	"code, reasoning, agents"	y	
+Nimble	ollama-nimble	Bespoke Labs	Ollama	"question"	decision	"decision model"	n	
