@@ -63,6 +63,7 @@ o1 Mini	azure-o1-mini	OpenAI	Azure OpenAI	text	text	"advanced code, advanced pro
 GPT 4o	azure-gpt-4o	OpenAI	Azure OpenAI	"text, image, audio"	text	"JSON, tools"	y	
 GPT 4o Mini	azure-gpt-4o-mini	OpenAI	Azure OpenAI	"text, image, audio"	text	"reasoning, math, code"	y	
 GPT 3.5 Turbo	azure-gpt-3.5-turbo	OpenAI	Azure OpenAI	text	text	"conversation, code"	y	
+Gemini 4 Argon	gemini-4-argon	Google AI	Google Vertex AI	"text, image, audio, video, pdf"	text	"multi-step processes, coding, thinking, Google search, URL context, reasoning, tools"	y	
 Gemini 3.1 Flash TTS Preview	gemini-3.1-flash-tts-preview	Google AI	Google Vertex AI	"text"	audio	"text-to-speech"	n	
 Gemini 3.8 Flash	gemini-3.8-flash	Google AI	Google Vertex AI	"text, image, audio, video, pdf"	text	"thinking, Google search, URL context, reasoning, tools"	y	
 Gemini 3.5 Flash	gemini-3.5-flash	Google AI	Google Vertex AI	"text, image, audio, video, pdf"	text	"thinking, Google search, URL context, reasoning, tools"	y	
