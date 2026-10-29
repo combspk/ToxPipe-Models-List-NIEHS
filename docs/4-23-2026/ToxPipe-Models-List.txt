@@ -89,3 +89,5 @@ Embed Text	ollama-nomic-embed-text	Nomic	Ollama	text	embedding	"text embedding, 
 Mistral NeMo	ollama-mistral-nemo-12b	Mistral AI	Ollama	text	text	"code, reasoning"	y	
 Gemma 4	ollama-gemma4-e4b	Google AI	Ollama	"text, image"	text	"code, reasoning, agents"	y	
 Nimble	ollama-nimble	Bespoke Labs	Ollama	"question"	decision	"decision model"	n	
+d1	ollama-d1	Liquid AI	Ollama	"question"	decision	"decision model"	n	
+d1-omni	ollama-d1-omni	Liquid AI	Ollama	"question"	decision	"decision model"	n	
